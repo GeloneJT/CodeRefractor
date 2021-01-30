@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Indicates spacing, backround color, and text color of masthead  */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -36,6 +37,7 @@ body {
     list-style-type: none;
 }
 
+/* Indicates positioning of href components */
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
